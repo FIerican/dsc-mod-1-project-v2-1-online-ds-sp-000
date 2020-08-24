@@ -5,10 +5,10 @@
 
 This README.md will be the source of information for navigating through the repository.
 
-* `movie_industry_analysis.ipynb`: jupyter notebook with technical analysis
 * `zippedData` folder: contains datasets used for analysis
 * `images` folder: contains graphs and other relevant images
-
+* `movie_industry_analysis.ipynb`: jupyter notebook with technical analysis
+* `presentation.pdf`: slide-deck of non-technical information
 
 ## Introduction: Business Opportunity
 
